@@ -21,3 +21,5 @@ Add this CSS code to your `styles/website.css`
   color: white;
 }
 ```
+
+![screenshot](./screenshot.png)
