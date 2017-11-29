@@ -1,6 +1,10 @@
 {
   "name": "gitbook-plugin-codeblock-numbering",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seungha-kim/gitbook-plugin-codeblock-numbering"
+  },
   "description": "This plugin adds `data-index` attribute to all <pre> tags.",
   "engines": {
     "gitbook": ">1.x.x"
